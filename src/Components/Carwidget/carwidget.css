@@ -1,0 +1,19 @@
+.container-cart {
+    display: flex;
+    align-items: center;
+    background-color: #7d1111;
+    border-radius: 10%;
+    padding: 0.9rem 15px 10px 50px; /* Ajusta el padding según sea necesario */
+}
+
+button {
+    border: none;
+    background:none;
+    cursor: pointer;
+}
+
+.cart-counter {
+    margin-left: 0.5rem;
+    color: #090909;
+    font-size: 1.5rem;
+}
